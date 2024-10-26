@@ -1,0 +1,64 @@
+projectName: VPN Use Cases
+jsonFilePath: ./input.json
+baseUrl: https://www.realestateindia.com
+portalHeading: Explore Buy / Sell / Rent Property in India
+portalDescription: >-
+  Welcome to RealEstateIndia.com. We have been serving the needs of the real
+  estate industry in India since 2007. Our single platform is designed to meet
+  the needs of buyers, sellers and brokers of India properties.
+portalTitle: Property in India - Buy/Sale/Rent Properties, Real Estate India
+searchPlaceholder: Type to find your city
+useAlphabetsCategory: true
+homeLink: https://www.realestateindia.com
+logoLink: /
+ctaText: Get Started
+aboutLink: https://www.realestateindia.com/aboutus.htm
+productsLink: https://www.realestateindia.com/services/realestate-agent.htm
+logoImgUrl: https://static.realestateindia.com/images/realestateindia-logo.png
+ctaLink: https://www.realestateindia.com/post-property-for-sale-rent.php
+copyrightText: Copyright © 2007-2024 Weblink .In Pvt. Ltd. All rights reserved.
+faviconUrl: https://static.realestateindia.com/favicon.ico
+googleTagManagerId: GTM-MB8NQN6
+pagesTitle:
+  prefix: ''
+  suffix: ''
+categoryPagesTitle:
+  prefix: ''
+  suffix: ''
+templateRoot:
+  - ./templates
+  - ./templates
+homeTemplatePath: ./templates/homePageTemplate.ejs
+categoryTemplatePath: ./templates/categoryTemplate.ejs
+pageTemplatePath: ./templates/pagesTemplate.ejs
+outputDir: ./output
+socialLinks:
+  - platform: Facebook
+    url: https://www.facebook.com/realestateindiacom
+  - platform: Twitter
+    url: https://twitter.com/propertydir
+  - platform: Instagram
+    url: https://www.instagram.com/realestateindia_/
+  - platform: LinkedIn
+    url: https://www.linkedin.com/company/realestateindia
+  - platform: Pinterest
+    url: https://in.pinterest.com/indianproperty/
+  - platform: YouTube
+    url: https://www.youtube.com/user/Realestateindiacom
+theme:
+  primaryColor: '#023e9a'
+  secondaryColor: '#b5486d'
+  backgroundColor: '#f5f5f5'
+  textColor: '#333'
+  accentColor: '#ed5455'
+fonts:
+  - family: Open Sans
+    weights:
+      - 400
+      - 500
+      - 600
+  - family: Roboto
+    weights:
+      - 500
+      - 600
+      - 700
